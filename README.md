@@ -2,9 +2,9 @@
 
 🚀 **Aspiring Software Engineer** | **MERN Stack** | **Blockchain** | **AI** | **Cloud**  
 
-![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow%20Me&style=social) 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername) 
-![GitHub Stars](https://img.shields.io/github/stars/yourusername?label=Stars&style=social)
+![GitHub followers](https://img.shields.io/github/followers/rprahul07?label=Follow%20Me&style=social) 
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=rprahul07.visitor-badge) 
+![GitHub Stars](https://img.shields.io/github/stars/rprahul07?label=Stars&style=social)
 
 ---
 
@@ -54,13 +54,6 @@ I am **Rahul R P**, a passionate **Computer Science student** at **CUSAT (2027 b
 #### 🛡 **Decentralized Hotel Booking System (Aadhaar Verification + IPFS Storage)**
 - A Web3 solution that ensures secure and transparent hotel bookings.
 - Uses **Aadhaar-based verification** and **IPFS** for decentralized data storage.
-
-#### 🚌 **Real-Time Bus Tracking App**
-- A smart transportation system for tracking live bus locations.
-- Uses **GPS**, **cloud services**, and **AI** to optimize public transport.
-
-#### 🍫 **ProBites – Probiotic-Infused Chocolate Brand**
-- A branding project focused on combining taste & health for the Indian market.
 
 ---
 
@@ -117,17 +110,22 @@ I am **Rahul R P**, a passionate **Computer Science student** at **CUSAT (2027 b
 
 ## 📫 **Let's Connect!**
 
-📩 **Email**:[ rprahulofficial07@gmail.com ]
-🌐 **Portfolio**: [rahulrp.pages.dev ]
-💬 **Twitter**: [https://x.com/rp_rahul_]
-🔗 **LinkedIn**:[ www.linkedin.com/in/rahulrp07  ]
+📩 **Email**: [rprahulofficial07@gmail.com]  
+🌐 **Portfolio**: [https://rahulrp.pages.dev](https://rahulrp.pages.dev)  
+💬 **Twitter**: [https://x.com/rp_rahul_](https://x.com/rp_rahul_)  
+🔗 **LinkedIn**: [https://www.linkedin.com/in/rahulrp07](https://www.linkedin.com/in/rahulrp07)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rprahul07&show_icons=true&theme=radical)
+## 📊 **GitHub Stats & Contributions**
+
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rprahul07&show_icons=true&count_private=true&theme=radical)
+
+![Rahul's GitHub Streak](https://streak-stats.demolab.com/?user=rprahul07&theme=radical)
+
+![Rahul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rprahul07&theme=radical)
 
 ---
 
-**Thanks for visiting my profile!** 😄  
-**Let's build the future together!** 🚀
-```
+**Thanks for visiting my profile!**  
+**Let's build the future together! 🚀**
