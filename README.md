@@ -3,7 +3,7 @@
 🚀 **Aspiring Software Engineer** | **MERN Stack** | **Blockchain** | **AI** | **Cloud**  
 
 ![GitHub followers](https://img.shields.io/github/followers/rprahul07?label=Follow%20Me&style=social) 
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=rprahul07.visitor-badge) 
+![Profile Views](https://komarev.com/ghpvc/?username=rprahul07&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub Stars](https://img.shields.io/github/stars/rprahul07?label=Stars&style=social)
 
 ---
